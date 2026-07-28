@@ -40,7 +40,7 @@ mkdocs-material = { extras = ["imaging"], version = "^9.5.20" }
 mkdocstrings = "^0.30.0"
 mkdocstrings-python = "^2.0.0"
 mkdocs-section-index = "^0.3.9"
-pymdown-extensions = ">=10.21.3"
+pymdown-extensions = ">=11.0"
 pygments = ">=2.20.0"
 cairosvg = ">=2.9.0"
 idna = ">=3.15"
