@@ -56,7 +56,7 @@ pytest = "^9.0.0"
 pytest-cov = "^7.0.0"
 pytest-randomly = "^4.0.0"
 filelock = ">=3.20.3"
-virtualenv = ">=20.36.1"
+virtualenv = ">=21.7.13"
 
 [tool.poetry.scripts]
 # Define CLI entry points here, e.g.:
